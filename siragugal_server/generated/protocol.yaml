@@ -1,0 +1,7 @@
+article:
+  - getArticle:
+  - addArticle:
+  - updateArticle:
+  - deleteArticle:
+example:
+  - hello:
